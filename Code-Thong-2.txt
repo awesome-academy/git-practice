@@ -1,2 +1,6 @@
 Code ABC 2
 code cua thong  -2
+code
+
+cua thong
+ -2
